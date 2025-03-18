@@ -4,3 +4,12 @@ new version of application add.
 
 new feature added.
 new add.
+
+🚀 Summary
+✔ Changing git config user.name does not affect authentication.
+✔ Your Git is logged in as saifakh06, but you need to authenticate as saifakh0604.
+✔ Clear credentials using git credential reject https://github.com.
+✔ If 2FA is enabled, use a Personal Access Token (PAT) instead of a password.
+✔ For a better experience, switch to SSH authentication.
+
+Let me know if you need further help! 🚀
